@@ -1,0 +1,1 @@
+print(f"My name is Andrii I am {18} years old, and my height is {186} cm. In 6 years I will be {24} years old" )
